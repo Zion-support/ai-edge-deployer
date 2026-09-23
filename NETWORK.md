@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Edge Deployer
 
-**ai-edge-deployer** is part of the Zion Tech Group app network (630+ apps).
+Deploy AI models to edge devices with optimization and monitoring.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-edge-ai](https://github.com/Zion-support/zion-edge-ai) · [zion-edge-ai-platform](https://github.com/Zion-support/zion-edge-ai-platform) · [ai-ml-ops-platform](https://github.com/Zion-support/ai-ml-ops-platform) · [ai-compute-optimizer](https://github.com/Zion-support/ai-compute-optimizer)
 
-## Related apps
-- [zion-edge-ai](https://github.com/Zion-support/zion-edge-ai) — Edge AI
-- [zion-edge-ai-platform](https://github.com/Zion-support/zion-edge-ai-platform) — Edge AI platform
-- [ai-ml-pipeline](https://github.com/Zion-support/ai-ml-pipeline) — ML training pipeline builder
-- [ai-ml-ops-platform](https://github.com/Zion-support/ai-ml-ops-platform) — Deploy and monitor ML models
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
