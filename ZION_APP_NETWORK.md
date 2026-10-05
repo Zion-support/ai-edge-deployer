@@ -1,21 +1,13 @@
-# 🌐 Zion AI App Network
+# Part of the Zion AI App Network
 
-Part of the **Zion AI App Network** — 800+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+This app is a member of the Zion AI App Network — 360+ interlinked AI micro-apps by Zion Tech Group.
 
-- 🏠 Home: https://ziontechgroup.com
-- 🧭 Directory: https://ziontechgroup.com/zion-app-network/
-- 📙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/ai-edge-deployer/
-- 🧩 Showcase: https://ziontechgroup.com/zion-app-network/app-network-sept26-microapps.html
-- 🔗 Related: [AI MLOps Platform](https://ziontechgroup.com/ai-ml-ops-platform/) · [AI Infrastructure Monitor](https://ziontechgroup.com/ai-infrastructure-monitor/) · [Discovery](https://ziontechgroup.com/discovery/)
+## Explore the network
+- Network hub: https://zion-support.github.io/zion-network/
+- Full apps showcase: https://ziontechgroup.com/apps/network.html
+- Free AI Discovery (instant app recommendations, results emailed to you): https://ziontechgroup.com/discovery/
+- Discovery benefits: https://ziontechgroup.com/apps/discovery-benefits.html
+- Plans & pricing: https://ziontechgroup.com/en/plans/
+- Main site: https://ziontechgroup.com
 
-## 🌟 Sustainability & Infrastructure Suite (GitHub)
-- [AI Carbon Tracker](https://github.com/Zion-support/ai-carbon-tracker) · [Energy Demand Forecaster](https://github.com/Zion-support/energy-demand-forecaster) · [AI Backup & Recovery](https://github.com/Zion-support/ai-backup-recovery) · [AI Cluster Manager](https://github.com/Zion-support/ai-cluster-manager) · [AI Infrastructure Monitor](https://github.com/Zion-support/ai-infrastructure-monitor)
-- Suite spotlight: [sustainability-infrastructure-suite.md](https://github.com/Zion-support/zion-network/blob/main/spotlights/sustainability-infrastructure-suite.md)
-
-© 2026 Zion Tech Group.
-
-## 🎬 Batch 66 — Content & Commerce AI (Sep 27, 2026)
-Part of Batch 66 with: [AI Advertising Optimizer](https://ziontechgroup.com/ai-advertising-optimizer/) · [AI Image Generator](https://ziontechgroup.com/ai-image-generator/) · [AI Image Editor](https://ziontechgroup.com/ai-image-editor/) · [AI Content Translator](https://ziontechgroup.com/ai-content-translator/) · [Zion Content Studio](https://ziontechgroup.com/zion-content-studio/) · [AI E-Commerce](https://ziontechgroup.com/ai-e-commerce/) · [AI Ecommerce Optimizer](https://ziontechgroup.com/ai-ecommerce-optimizer/) · [AI Edge Deployer](https://ziontechgroup.com/ai-edge-deployer/)
-- Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH66.md
-- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch66-sept27.html
+Contact: commercial@ziontechgroup.com
